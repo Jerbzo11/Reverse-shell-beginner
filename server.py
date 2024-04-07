@@ -1,7 +1,7 @@
 import socket
 import subprocess
 
-host = '192.168.1.7'  # localhost
+host = '192.0.0.0'  # localhost
 port = 8080
 
 # Create a socket object
